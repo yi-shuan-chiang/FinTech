@@ -1,7 +1,7 @@
 # FinTech
 ---
 >week1
-  -hw1
+-hw1
 ---
 >week2
   -hw2
