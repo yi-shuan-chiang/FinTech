@@ -1,5 +1,5 @@
 # FinTech
-##>*week1*
+>##*week1*
  >>  -hw1  
 
 ##>*week2*
