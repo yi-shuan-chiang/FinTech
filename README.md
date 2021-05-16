@@ -27,7 +27,7 @@
  >  [hw5](https://youtu.be/IWgY1QT-Ldg)
  > 
 **APR.12**
- >  
+ >  [hw6](https://youtu.be/WOhHedkJ_0Q)
  # 專案進度
  >  [第一次專題進度追蹤](https://drive.google.com/file/d/16PS1FO5xpW_U2EON-XwFOrtk3MAYp9EH/view?usp=sharing)
  >  [第二次專題進度追蹤](https://drive.google.com/file/d/1KYfeSkALYXbqSpJk86nhVVi_rAXhCBqq/view?usp=sharing)
